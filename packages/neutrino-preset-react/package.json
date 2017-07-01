@@ -25,7 +25,8 @@
     "neutrino-middleware-compile-loader": "^6.1.4",
     "neutrino-middleware-loader-merge": "^6.1.4",
     "neutrino-preset-web": "^6.1.4",
-    "react-hot-loader": "3.0.0-beta.7"
+    "react-hot-loader": "3.0.0-beta.7",
+    "webpack": "^3.0.0"
   },
   "peerDependencies": {
     "neutrino": "^6.0.0"

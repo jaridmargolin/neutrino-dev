@@ -9,6 +9,7 @@
   "repository": "mozilla-neutrino/neutrino-dev",
   "scripts": {
     "lint": "packages/neutrino/bin/neutrino lint",
+    "all": "oao all",
     "bootstrap": "oao bootstrap --no-parallel",
     "changelog": "changelog mozilla-neutrino/neutrino-dev all --markdown > CHANGELOG.md",
     "deps:add": "oao add",
@@ -44,6 +45,6 @@
     "oao": "0.8.4",
     "prettier": "^1.4.4",
     "semver": "^5.3.0",
-    "webpack": "^2.6.1"
+    "webpack": "^3.0.0"
   }
 }

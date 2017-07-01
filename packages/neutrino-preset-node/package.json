@@ -29,7 +29,7 @@
     "neutrino-middleware-loader-merge": "^6.1.4",
     "neutrino-middleware-start-server": "^6.1.4",
     "ramda": "^0.24.1",
-    "webpack": "^2.6.1",
+    "webpack": "^3.0.0",
     "webpack-node-externals": "^1.6.0"
   },
   "peerDependencies": {

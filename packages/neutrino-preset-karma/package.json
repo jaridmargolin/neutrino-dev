@@ -26,8 +26,8 @@
     "mocha-coverage-reporter": "^0.0.1",
     "neutrino-middleware-loader-merge": "^6.1.4",
     "ramda": "^0.24.1",
-    "webpack": "^2.6.1",
-    "webpack-dev-middleware": "^1.10.2"
+    "webpack": "^3.0.0",
+    "webpack-dev-middleware": "^1.11.0"
   },
   "peerDependencies": {
     "neutrino": "^6.0.0"
